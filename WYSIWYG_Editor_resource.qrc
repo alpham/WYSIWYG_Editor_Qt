@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img/alignment">
+        <file alias="center">images/center.png</file>
+        <file alias="justify">images/justify.png</file>
+        <file alias="left">images/left.png</file>
+        <file alias="right">images/right.png</file>
+    </qresource>
+    <qresource prefix="/font/style">
+        <file alias="bold">images/bold.png</file>
+        <file alias="italic">images/italic.png</file>
+        <file alias="underline">images/underline.png</file>
+    </qresource>
+</RCC>
